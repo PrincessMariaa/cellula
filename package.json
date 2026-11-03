@@ -1,0 +1,9 @@
+{
+  "name": "cellula",
+  "version": "0.7.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "0.160.1"
+  }
+}
